@@ -1,0 +1,35 @@
+.logo{
+    width: 20%;
+    padding-left: 11%;
+    font-style: italic;
+    
+}
+.list{
+    width: 50%;
+
+}
+.list1{
+    width: 30%;
+}
+.navbar ul li{
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+   
+
+}
+.navbar{
+    display: flex;
+    border: 100%;
+    
+}
+.list1{
+    color: red;
+}
+.btn{
+    color: red;
+  border-radius: 20px;
+  padding: 15px;
+  width: 20%;
+}

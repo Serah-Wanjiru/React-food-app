@@ -1,0 +1,22 @@
+.food{
+    padding-left: 15%;
+}
+.img{
+    display: flex;
+}
+.foods{
+    padding-left: 10%;
+}
+.footer{
+    display: flex;
+    gap: 10%;
+    padding-left: 10%;
+    background-color: pink;
+}
+.title {
+    color:rgb(233, 56, 56);
+    font-size: 200%;
+}
+.footer ul li{
+    list-style-type: none;
+}
